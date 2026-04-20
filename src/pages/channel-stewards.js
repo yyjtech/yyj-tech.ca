@@ -34,8 +34,13 @@ const ChannelStewards = ({ data }) => {
         <div>
           <ul>
             <li>Report a suspicious or concerning post by clicking the 3 dots on a post, choosing "connect to apps" and then selecting "report message". This will alert all stewards, and action will be taken.</li>
-            <li>Need help getting your account reactiveated? <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjqqL789KNnw4mLwp5N2Z1bb4yTfaLhcugLnAdW4Rq-RZhbQ/viewform
-">Reach out here</a>. A steward will be in touch within a week.</li>
+            <li>
+                Need help getting your account reactiveated? 
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjqqL789KNnw4mLwp5N2Z1bb4yTfaLhcugLnAdW4Rq-RZhbQ/viewform">
+                  Reach out here
+                </a>. 
+                A steward will be in touch within a week.
+            </li>
           <ul>
         </div>
         
