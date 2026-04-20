@@ -30,6 +30,19 @@ const ChannelStewards = ({ data }) => {
           <li>Never feel guilty for not “doing enough”. The community will take all the energy you are willing give - as in, we are both grateful for whatever you want to give, and also it will eat up ALL of your energy if you let it.</li>
         </ul>
 
+        <h2 className="mt-12">How to get support</h2>
+        <div>
+          <ul>
+            <li>Report a suspicious or concerning post by clicking the 3 dots on a post, choosing "connect to apps" and then selecting "report message". This will alert all stewards, and action will be taken.</li>
+            <li>
+                Need help getting your account reactiveated? 
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjqqL789KNnw4mLwp5N2Z1bb4yTfaLhcugLnAdW4Rq-RZhbQ/viewform">
+                  Reach out here
+                </a>. 
+                A steward will be in touch within a week.
+            </li>
+          </ul>
+        </div>
         
         <h2 className="mt-12">Current Stewards</h2>
 
