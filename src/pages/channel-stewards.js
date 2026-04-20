@@ -41,7 +41,7 @@ const ChannelStewards = ({ data }) => {
                 </a>. 
                 A steward will be in touch within a week.
             </li>
-          <ul>
+          </ul>
         </div>
         
         <h2 className="mt-12">Current Stewards</h2>
