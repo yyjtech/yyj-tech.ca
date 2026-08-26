@@ -32,16 +32,39 @@ const ChannelStewards = ({ data }) => {
 
         <h2 className="mt-12">How to get support</h2>
         <div>
-          <ul>
-            <li>Report a suspicious or concerning post by clicking the 3 dots on a post, choosing "connect to apps" and then selecting "report message". This will alert all stewards, and action will be taken.</li>
-            <li>
-                Need help getting your account reactiveated? 
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjqqL789KNnw4mLwp5N2Z1bb4yTfaLhcugLnAdW4Rq-RZhbQ/viewform">
-                  Reach out here
-                </a>. 
-                A steward will be in touch within a week.
-            </li>
-          </ul>
+          <h3>Alert channel stewards to a concerning post to request review</h3>
+          <h4>Reporting a spam message</h4>
+          <ol>
+            <li>On public posts, react to a message with a `:spam:` emoji</li>
+            <li>Silently report a spam message in public or a DM by clicking the 3 dots on a post, choosing "connect to apps" and then selecting "report spam".</li>
+          </ol>
+          <h4>Requesting a Code of Conduct review</h4>
+          <ol>
+            <li>On public posts, react to a message with a `:thermometer:` emoji. This is a very public way to alert someone that their tone may not be landing how it was intended, and not suitable for all situations.</li>
+            <li>Silently report a spam message in public or a DM by clicking the 3 dots on a post, choosing "connect to apps" and then selecting between the anonymous or non anonymous request for review.</li>
+          </ol>
+          
+          <h3>Getting feedback on your own posts</h3>
+            <p>
+              As channel stewards, we recognize that tone, ESPECIALLY on the internet, is a really tough thing and try hard to find a balance of healthy community without crossing the line to tone policing.
+              We understand that communication is hard, and communication within a group community setting is even harder. 
+            </p>
+            <p>
+              Should you find yourself in a situation where you are really trying hard to communicate thoughtfully and carefully, you are able to draft the message in a DM to yourself, and request feedbac, or publicly signal you are checking after posting. 
+              The bot will give you feedback on if the message is landing within the expected behaviours of our space, and AI will suggest an alternative way of saying it if not.
+            </p>
+             <ol>
+              <li>On public posts, react to a message with a `:thermometer:` emoji. This is a very public way to alert someone that their tone may not be landing how it was intended, and not suitable for all situations.</li>
+              <li>In a DM by clicking the 3 dots on a post, choosing "connect to apps" and then selecting "Request CoC review".</li>
+            </ol>
+          
+          <h3>Need help getting your account reactiveated?</h3>
+          <p>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjqqL789KNnw4mLwp5N2Z1bb4yTfaLhcugLnAdW4Rq-RZhbQ/viewform">
+                Reach out here
+              </a>. 
+            </p>
+          <p>A steward will be in touch within a week.</p>    
         </div>
         
         <h2 className="mt-12">Current Stewards</h2>
