@@ -48,17 +48,7 @@ homepage:
       sourceUrl: https://unsplash.com/photos/m4UTb5H6EwA
       media: ../images/home-backgrounds/matt-brett-m4UTb5H6EwA-unsplash.jpg
 
-  channelStewards:   
-    - name: Jen Reiher
-      bio: I was the cofounder of the original YYJ Tech Slack group, YYJ Tech Ladies. I have been studying, working or volunteering in something related to equity and inclusion for 25+ years.
-      dmURL: https://yyjtech.slack.com/archives/D1KFJAREY
-      username: jen
-      imageURL: https://ca.slack-edge.com/T18HH1BSP-U18PA9AJZ-61de6876ffcc-512
-      joinYear: 2016
-      channels:
-        - announcements
-        - meta
-        
+  channelStewards:    
     - name: Andrina Kelly
       bio: I have been in a leadership position for 10+ years and participate in both the accessibility and women in tech employee resource groups in my organization.
       dmURL: https://yyjtech.slack.com/archives/D04C47KRFC7
